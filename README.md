@@ -4,5 +4,7 @@
 
 A quick game that I have done about AI, guess how I made it ;)
 
+**[https://bob-the-vibecoder.github.io/datacenter/](https://bob-the-vibecoder.github.io/datacenter/)**
+
 ---
 ---
